@@ -1,0 +1,3 @@
+[submodule "handson-basic"]
+	path = handson-basic
+	url = https://github.com/akhilraj-0474/handson-basic.git
